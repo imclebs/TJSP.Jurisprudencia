@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "M7TFQBZxmwk=",
+  "success": true,
+  "projectFilePath": "C:\\iPrazos\\TJSPJurisSolution\\TJSP.Crawler\\TJSP.Crawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imclebs\\.nuget\\packages\\htmlagilitypack\\1.12.2\\htmlagilitypack.1.12.2.nupkg.sha512",
+    "C:\\Users\\imclebs\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\imclebs\\.nuget\\packages\\microsoft.playwright\\1.54.0\\microsoft.playwright.1.54.0.nupkg.sha512",
+    "C:\\Users\\imclebs\\.nuget\\packages\\serilog\\4.3.0\\serilog.4.3.0.nupkg.sha512",
+    "C:\\Users\\imclebs\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\imclebs\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\imclebs\\.nuget\\packages\\system.io.pipelines\\9.0.8\\system.io.pipelines.9.0.8.nupkg.sha512",
+    "C:\\Users\\imclebs\\.nuget\\packages\\system.net.http.json\\9.0.8\\system.net.http.json.9.0.8.nupkg.sha512",
+    "C:\\Users\\imclebs\\.nuget\\packages\\system.text.encodings.web\\9.0.8\\system.text.encodings.web.9.0.8.nupkg.sha512",
+    "C:\\Users\\imclebs\\.nuget\\packages\\system.text.json\\9.0.8\\system.text.json.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
