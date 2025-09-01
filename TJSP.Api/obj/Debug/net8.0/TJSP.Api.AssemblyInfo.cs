@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TJSP.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea9b295986ac703b2fade634ee7b88e74e6adae0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TJSP.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TJSP.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

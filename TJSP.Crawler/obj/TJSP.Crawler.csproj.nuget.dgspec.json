@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\iPrazos\\TJSPJurisSolution\\TJSP.Crawler\\TJSP.Crawler.csproj": {}
+    "C:\\iPrazos\\TJSPJurisSolutions\\TJSP.Crawler\\TJSP.Crawler.csproj": {}
   },
   "projects": {
-    "C:\\iPrazos\\TJSPJurisSolution\\TJSP.Crawler\\TJSP.Crawler.csproj": {
+    "C:\\iPrazos\\TJSPJurisSolutions\\TJSP.Crawler\\TJSP.Crawler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\iPrazos\\TJSPJurisSolution\\TJSP.Crawler\\TJSP.Crawler.csproj",
+        "projectUniqueName": "C:\\iPrazos\\TJSPJurisSolutions\\TJSP.Crawler\\TJSP.Crawler.csproj",
         "projectName": "TJSP.Crawler",
-        "projectPath": "C:\\iPrazos\\TJSPJurisSolution\\TJSP.Crawler\\TJSP.Crawler.csproj",
+        "projectPath": "C:\\iPrazos\\TJSPJurisSolutions\\TJSP.Crawler\\TJSP.Crawler.csproj",
         "packagesPath": "C:\\Users\\imclebs\\.nuget\\packages\\",
-        "outputPath": "C:\\iPrazos\\TJSPJurisSolution\\TJSP.Crawler\\obj\\",
+        "outputPath": "C:\\iPrazos\\TJSPJurisSolutions\\TJSP.Crawler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imclebs\\AppData\\Roaming\\NuGet\\NuGet.Config"
