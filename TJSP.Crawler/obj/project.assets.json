@@ -915,11 +915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TJSPJurisSolutions\\TJSP.Crawler\\TJSP.Crawler.csproj",
+      "projectUniqueName": "C:\\TJSPJuri_Solution\\TJSP.Crawler\\TJSP.Crawler.csproj",
       "projectName": "TJSP.Crawler",
-      "projectPath": "C:\\TJSPJurisSolutions\\TJSP.Crawler\\TJSP.Crawler.csproj",
+      "projectPath": "C:\\TJSPJuri_Solution\\TJSP.Crawler\\TJSP.Crawler.csproj",
       "packagesPath": "C:\\Users\\imclebs\\.nuget\\packages\\",
-      "outputPath": "C:\\TJSPJurisSolutions\\TJSP.Crawler\\obj\\",
+      "outputPath": "C:\\TJSPJuri_Solution\\TJSP.Crawler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\imclebs\\AppData\\Roaming\\NuGet\\NuGet.Config"

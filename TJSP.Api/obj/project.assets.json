@@ -4194,11 +4194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TJSPJurisSolutions\\TJSP.Api\\TJSP.Api.csproj",
+      "projectUniqueName": "C:\\TJSPJuri_Solution\\TJSP.Api\\TJSP.Api.csproj",
       "projectName": "TJSP.Api",
-      "projectPath": "C:\\TJSPJurisSolutions\\TJSP.Api\\TJSP.Api.csproj",
+      "projectPath": "C:\\TJSPJuri_Solution\\TJSP.Api\\TJSP.Api.csproj",
       "packagesPath": "C:\\Users\\imclebs\\.nuget\\packages\\",
-      "outputPath": "C:\\TJSPJurisSolutions\\TJSP.Api\\obj\\",
+      "outputPath": "C:\\TJSPJuri_Solution\\TJSP.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\imclebs\\AppData\\Roaming\\NuGet\\NuGet.Config"

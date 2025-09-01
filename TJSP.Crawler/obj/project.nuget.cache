@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bEZqGZQ7KaI=",
+  "dgSpecHash": "n+MSyuw43Tc=",
   "success": true,
-  "projectFilePath": "C:\\TJSPJurisSolutions\\TJSP.Crawler\\TJSP.Crawler.csproj",
+  "projectFilePath": "C:\\TJSPJuri_Solution\\TJSP.Crawler\\TJSP.Crawler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imclebs\\.nuget\\packages\\htmlagilitypack\\1.12.2\\htmlagilitypack.1.12.2.nupkg.sha512",
     "C:\\Users\\imclebs\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
