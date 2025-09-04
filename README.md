@@ -109,7 +109,7 @@ A documentação completa pode ser acessada via **Swagger**.
 
 ---
 
-## 🛠 Requisitos
+## Requisitos
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
